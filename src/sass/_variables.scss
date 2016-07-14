@@ -35,7 +35,10 @@ $gray-light:                    lighten($gray-base, 17%) !default;
 $gray-lighter:                  lighten($gray-base, 35%) !default;
 $gray-lightest:                 lighten($gray-base, 46%) !default;
 
-$brand-primary:                 #584492 !default;
+// alter Wert
+//$brand-primary:                 #584492 !default;
+
+$brand-primary:                 #507AAA !default;
 $brand-text:                    #fff !default;
 $brand-accent:                  #deddef !default;
 
