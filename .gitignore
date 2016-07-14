@@ -3,3 +3,5 @@
 /src/sass/_custom-variables.scss
 /.sublime-grunt.cache
 /images/logo
+.DS_*
+.git*
